@@ -34,6 +34,6 @@ compose bilgilerini kopyalayın.
 ![](/Users/meltemsert/Desktop/Ekran Resmi 2024-04-14 21.07.31.png)
 5. Docker Desktop uygulamasını lokalinizde çalıştırın.
 6. Terminal üzerinden docker-compose up -d ile uygulamayı docker üzerinde ayağa kaldırın.
-7. Uygulama ekranına lokalhost üzerinden gidin.
+7. Uygulama ekranına lokalhost üzerinden gidin. 
 
 
