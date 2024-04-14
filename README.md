@@ -25,7 +25,7 @@
 * RestAssured 🌟
 
 ## Proje Oluşturmaya Başlangıç 🚀
-1. İlk Olarak yerel bilgisayarımızda IntelliJ üzerinde bir maven projesi oluşturun.
+1. İlk Olarak yerel bilgisayarınızda IntelliJ üzerinde bir maven projesi oluşturun.
 
 2. https://docs.kanboard.org/v1/admin/docker/ Kanboard web sitesinin docker
 compose bilgilerini kopyalayın.
