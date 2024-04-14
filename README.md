@@ -43,3 +43,4 @@ compose bilgilerini kopyalayın.
 7. Uygulama ekranına lokalhost üzerinden gidin. 
 
 
+
