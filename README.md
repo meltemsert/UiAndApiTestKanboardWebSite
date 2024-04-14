@@ -34,7 +34,7 @@ compose bilgilerini kopyalayın.
 
 4. Kopyaladığınız compose bilgisini dosyanın içerisine aktarın
 
-<img src="/Users/meltemsert/Desktop/Ekran Resmi 2024-04-14 21.07.31.png"/>
+![composeinformation](/Users/meltemsert/Desktop/Ekran Resmi 2024-04-14 21.07.31.png)
 
 5. Docker Desktop uygulamasını lokalinizde çalıştırın.
 
