@@ -4,22 +4,22 @@
 
 ## Proje Amaçları
 
-Kanboard'u Docker üzerinde başlatmak. 🐳
+* Kanboard'u Docker üzerinde başlatmak. 🐳
 
-UI testleri için Selenium WebDriver kullanarak Kanboard'u test etmek. 💻
+* UI testleri için Selenium WebDriver kullanarak Kanboard'u test etmek. 💻
 
-API testleri için RestAssured kullanarak Kanboard API'sini test etmek. 🌐
+* API testleri için RestAssured kullanarak Kanboard API'sini test etmek. 🌐
 
-Maven projesi üzerinde test senaryolarını entegre etmek ve Jenkins üzerinde otomatik olarak çalıştırmak. 🛠️
+* Maven projesi üzerinde test senaryolarını entegre etmek ve Jenkins üzerinde otomatik olarak çalıştırmak. 🛠️
 
 ## Gereksinimler
 
-Docker 🐋
+* Docker 🐋
 
-Maven 📦
+* Maven 📦
 
-Java Development Kit (JDK) ☕
+* Java Development Kit (JDK) ☕
 
-Selenium WebDriver ⚙️
+* Selenium WebDriver ⚙️
 
-RestAssured 🌟
+* RestAssured 🌟
